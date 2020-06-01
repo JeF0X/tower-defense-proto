@@ -1,2 +1,2 @@
-#Project Poster
+# Project Poster
 ![Poster](/Images/poster.png)
