@@ -1,0 +1,1 @@
+{"highScores":[{"name":"jek","score":6474},{"name":"juh","score":5918},{"name":"ket","score":5751},{"name":"jek","score":4120},{"name":"AAA","score":4104},{"name":"AAA","score":4103},{"name":"AAA","score":4091},{"name":"jek","score":3939},{"name":"juh","score":3356},{"name":"AAA","score":866},{"name":"jek","score":216},{"name":"jek","score":216},{"name":"jek","score":208}]}
